@@ -4,11 +4,9 @@
 
 - My name is Caleb Penning
 - Pronouns: (he/him)
-- I'm an early career Software Engineer from the SF Bay Area.
-- Right now I am finishing up the Software Engineering Career Track at Springboard. 
+- I'm a Software Engineer from the SF Bay Area, specializing in Fullstack Web Development.
 - I am currently working with React, React-Router and Redux quite a bit.
-- I'm hoping to land my first developer position by the year's end. 
-- After I finish my course at Springboard, I plan on learning some Solidity programming, get more familiar with Django, and eventually I'd love to pick up C# and Unity.
+- I'm also learning Go and TypeScript.
 - Ask me about my cats, music, movies, food, and pretty much anything else :) (even the older, sillier code on here)
 
 ### Cheers!

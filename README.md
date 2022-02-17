@@ -5,8 +5,8 @@
 - My name is Caleb Penning
 - Pronouns: (he/him)
 - I'm a Software Engineer from the SF Bay Area, specializing in Fullstack Web Development.
-- I am currently working with React, React-Router and Redux quite a bit.
-- I'm also learning to work with Go and TypeScript.
+- I am currently working on React apps that use Serverless architecture with AWS Lambda functions.
+- I'm also learning to work with C# and .NET, as well as TypeScript.
 
 ### Cheers!
 

@@ -5,15 +5,15 @@
 - My name is Caleb Penning
 - Pronouns: (he/him)
 - I'm a Software Engineer from the SF Bay Area, specializing in Fullstack Web Development.
-- I am currently working on React apps that use Serverless architecture with AWS Lambda functions.
-- I'm also learning to work with C# and .NET, as well as TypeScript.
+- I am currently absolutely obsessed with Next.js, Typescript and Prisma (using postgres ofc)
+- Hoping to do more back-end oriented work in the future, would be happiest in a full-stack role
 
 ### Cheers!
 
 #### Some Stats:
 
-[![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalebPenning&count_private=true&show_icons=true&theme=dracula&hide=prs,stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Caleb's Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebPenning&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalebPenning&count_private=true&show_icons=true&theme=dracula&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Caleb's Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebPenning&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

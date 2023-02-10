@@ -5,7 +5,8 @@
 - My name is Caleb Penning
 - Pronouns: (he/him)
 - I'm a Software Engineer from the SF Bay Area, specializing in Fullstack Web Development.
-- I am currently absolutely obsessed with Next.js, Typescript and Prisma (using postgres ofc)
+- Most recently got to work in a Next.js and Typescript codebase, loved it.
+- Now currently working on C# and .NET, as well as AWS/Azure, while continuing to strengthen my client-side skills
 - Hoping to do more back-end oriented work in the future, would be happiest in a full-stack role
 
 ### Cheers!

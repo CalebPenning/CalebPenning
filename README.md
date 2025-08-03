@@ -2,12 +2,12 @@
 
 ---
 
-- My name is Caleb Penning
-- Pronouns: (he/him)
+- My name is Caleb Penning.
 - I'm a Software Engineer from the SF Bay Area, specializing in Fullstack Web Development.
-- Most recently got to work in a Next.js and Typescript codebase, loved it.
-- Now currently working on C# and .NET, as well as AWS/Azure, while continuing to strengthen my client-side skills
-- Hoping to do more back-end oriented work in the future, would be happiest in a full-stack role
+- Primarily, I do work in React, Svelte and Node. I am front end focused in my current role, but also love spinning up web servers and web APIs, CLI tools, working with Databases, and scripting. 
+- Currently projects I'm working on include a Discord bot to help automate a "Gaming Book Club" I have going with some pals, and my personal site (major WIP).
+- For learning, I'm dipping my toes into the OWASP top ten to try and be a more secure developer, and have been slowly trying to pick up Unity. 
+- Hoping to do more back-end oriented work in the future, would be happiest in a full-stack role.
 
 ### Cheers!
 
